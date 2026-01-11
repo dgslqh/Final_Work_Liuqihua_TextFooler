@@ -1,0 +1,4 @@
+models/
+nltk_data/
+counter-fitted-vectors.txt
+cos_sim_counter_fitting.npy

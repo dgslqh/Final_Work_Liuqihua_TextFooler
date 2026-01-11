@@ -1,7 +1,7 @@
 import numpy as np
 import sys
 
-embedding_path = sys.argv[1] # '/data/medg/misc/jindi/nlp/embeddings/counter-fitted-vectors.txt'
+embedding_path = sys.argv[1]
 
 embeddings = []
 with open(embedding_path, 'r') as ifile:
